@@ -1,0 +1,141 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!--
+Design by Free CSS Templates
+http://www.freecsstemplates.org
+Released for free under a Creative Commons Attribution 2.5 License
+
+Title      : Sandstone
+Version    : 1.0
+Released   : 20091109
+Description: A two-column fixed-width template suitable for small websites.
+
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>glidingteam.be</title>
+<!-- TemplateEndEditable -->
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<link href="../default.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+#apDiv1 {
+	position:absolute;
+	width:467px;
+	height:155px;
+	z-index:1;
+	left: 408px;
+	top: 950px;
+	visibility: visible;
+}
+-->
+</style>
+<script src="../SpryAssets/SpryMenuBar.js" type="text/javascript"></script>
+<link href="../SpryAssets/SpryMenuBarHorizontal.css" rel="stylesheet" type="text/css" />
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+<body>
+<div id="wrapper">
+  <div id="header">
+    <div id="logo">
+      <h1><a href="index.html">Belgian Gliding Team</a></h1>
+      <h2><a href="../nl/index.html">Nederlands - Fran&Ccedil;AIS - EngLISH</a></h2>
+    </div>
+    <!-- end div#logo -->
+  </div>
+  <!-- end div#header -->
+  <div id="menu">
+    <ul>
+      <li class="active"><a href="../nl/index.html">INFO</a></li>
+      <li><a href="../nl/team/elite_club.html">Team</a></li>
+      <li><a href="../nl/wedstrijden/watiswedstrijd_ecovriendelijkeformule1in3d.html">WEDSTRIJDEN</a></li>
+      <li><a href="../nl/links/links.html">LINKS</a></li>
+      <li><a href="../nl/sponsors/sponsors_mogelijkheden.html">SPONSORS</a></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <a href="../nl/contact/contact_webmaster.html"><strong>Contact</strong></a>
+    </ul>
+    
+  </div>
+  <div id="splash"><!-- TemplateBeginEditable name="EditRegion3" --><img src="../images/Header foto's/img01-Matterhorn.jpg" width="940" height="410" alt="Header Belgian Gliding Team" /><!-- TemplateEndEditable --></div>
+  
+  <!-- end div#menu -->
+  
+  <div id="submenubalk"><!-- TemplateBeginEditable name="EditRegion4" -->
+    <div id="submenuLINKS">INFO</div>
+  <!-- TemplateEndEditable -->
+    <div id="submenuRECHTS">
+  <ul id="MenuBar1" class="MenuBarHorizontal">
+      		<li><!-- TemplateBeginEditable name="EditRegion5" --><a href="#">Welkom</a><!-- TemplateEndEditable -->
+      		<li><!-- TemplateBeginEditable name="EditRegion6" --><a href="#">Ecologische Topsport</a><!-- TemplateEndEditable -->
+      		<li><!-- TemplateBeginEditable name="EditRegion7" --><a href="#">Kernploeg Elite</a><!-- TemplateEndEditable -->
+      		<li><!-- TemplateBeginEditable name="EditRegion8" --><a href="#">Kernploeg Junioren</a><!-- TemplateEndEditable -->
+            <li><!-- TemplateBeginEditable name="EditRegion99" --><a href="#"></a><!-- TemplateEndEditable -->
+            <li><!-- TemplateBeginEditable name="EditRegion98" --><a href="#"></a><!-- TemplateEndEditable -->
+	  </ul>
+    </div>
+  </div>
+  
+  <!-- end div#submenu -->
+  <div id="page">
+    <div id="page-bgtop"><!-- TemplateBeginEditable name="EditRegion10" -->
+    <div id="content">
+      <p>Het Belgische Zweefvlieg Team heet u van harte welkom op haar website. Graag hopen we u te zien op één van de mooie vliegvelden die België rijk is, of natuurlijk nog liever ergens in de lucht.</p>
+      <p>Dat zweefvliegen meer kan zijn dan het rondjes vliegen rond de spreekwoordelijke kerktoren, mag duidelijk zijn als we de prestaties bekijken die onze nationale ploeg behaalt, zowel bij de junioren, als bij de elite. Naast de deelname's aan regionale wedstrijden en de Belgische Kampioenschappen, leveren onze piloten  knappe prestaties op internationale wedstrijden over gans de wereld. </p>
+      <p>Reeds in de jaren '70 zorgden bekende piloten als Bert Zegels, Paul Bourgard en Henri Stouffs bij de mannen, en GeoGeo Litt bij de vrouwen ervoor dat de Belgische zweefvliegscène op de wereldkaart geplaatst werd met o.a. een vice-wereldtitel. Vandaag de dag is de Belgische selectie sterk in de breedte gegroeid en zijn we er trots op dat zowel bij de junioren als bij de elite bijzonder groot potentieel aanwezig is.</p>
+    </div>
+    <!-- TemplateEndEditable -->
+      <!-- end div#content -->
+      <!-- TemplateBeginEditable name="EditRegion9" -->
+      <div id="sidebar">
+        <li>
+          <h2>Info</h2>
+              <ul>
+                <li><a href="../elite.html">Welkom</a></li>
+                <li><a href="../junioren.html">Ecologische Topsport</a></li>
+                <li><a href="../nationale_ranking.html">De Kernploeg Elite</a></li>
+                <li><a href="../hall_of_fame.html">De Kernploeg Junioren</a></li>
+              </ul>
+        </li>
+      </div>
+      <!-- TemplateEndEditable -->
+      <div id="sponsors_">
+        <li> 
+        	<span class="post">
+            	<a href="http://www.lvzc.be" target="_blank"><img src="../images/sponsors/lvzc-240-test.png" alt="logo lvzc" width="240" height="54" border="0" /></a></span>
+             <span class="post">
+       	<a href="http://www.aviabel.be/" target="_blank"><img src="../images/sponsors/aviabel-240.png" alt="Aviabel" width="240" height="82" border="0" /></a></span></li>
+        <li></li>
+    </div>
+        <!-- end div#sidebar -->
+      </p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <div style="clear: both; height: 1px"></div>
+    </div>
+  </div>
+  <!-- end div#page -->
+  <div id="footer">
+    <p>Copyright &copy; 2010 Schmelzer Bert. All Rights Reserved. Designed by <a href="http://www.freecsstemplates.org/">Free CSS Templates</a>. </p>
+    <p id="links"><a href="#">Privacy Policy</a> | <a href="#">Terms of Use</a></p>
+  </div>
+  <!-- end div#footer -->
+</div>
+<!-- end div#wrapper -->
+<script type="text/javascript">
+<!--
+var MenuBar1 = new Spry.Widget.MenuBar("MenuBar1", {imgDown:"SpryAssets/SpryMenuBarDownHover.gif", imgRight:"SpryAssets/SpryMenuBarRightHover.gif"});
+//-->
+</script>
+</body>
+</html>
